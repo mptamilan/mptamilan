@@ -16,7 +16,7 @@
 
 <a href="https://linkedin.com/in/royal-development-277486233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="royal-development-277486233" height="30" width="40" /></a>
 
-<a href="https://fb.com/royaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="royaldev" height="30" width="40" /></a>
+<a href="https://www.facebook.com/royaldev.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="royaldev" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/channel/UCoSAUnh1zq7ASiLRXb7kU0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucosaunh1zq7asilrxb7ku0q" height="30" width="40" /></a>
 
