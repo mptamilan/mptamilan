@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Royal5074</h1>
+<h1 align="center">Hi 👋, I'm MP TAMILAN</h1>
 
 <h3 align="center">A Discord Bot Developer, Website Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/Royaldiscorddev" target="blank"><img src="https://img.shields.io/twitter/follow/royaldiscorddev?logo=twitter&style=for-the-badge" alt="royaldiscorddev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://royal5074.ml](https://royal5074.ml)
+- 👨‍💻 All of my projects are available at [https://mptamilan.netlify.app](https://mptamilan.netlify.app)
 
 - 📫 How to reach me **whiteroyaldev@hotmail.com**
 
