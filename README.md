@@ -26,7 +26,7 @@
 <p><a href="https://ko-fi.com/mptamilan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mptamilan" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mptamilan&show_icons=true&locale=en&layout=compact" alt="mptamilan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mptamilan&show_icons=true&locale=en&layout=compact" alt="mptamilan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mptamilan&show_icons=true&locale=en" alt="mptamilan" /></p>
 
