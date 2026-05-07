@@ -262,8 +262,6 @@ Python             ███████████░░░░░░░░░ 
   <img alt="github-snake" src="https://raw.githubusercontent.com/mptamilan/mptamilan/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> ℹ️ **To enable the snake animation:** Create `.github/workflows/snake.yml` — see setup guide at the bottom ↓
-
 </div>
 
 ---
