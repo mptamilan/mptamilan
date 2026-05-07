@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF88,100:0D0D0D&height=200&section=header&text=PRITHIVIRAJ%20MANOHARAN&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20Modpack%20Creator%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&descColor=00FF88&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF88,100:0D0D0D&height=200&section=header&text=PRITHIVIRAJ%20MANOHARAN&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20Minecraft%20Modpack%20Creator%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&descColor=00FF88&animation=twinkling" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=650&lines=%24+sudo+apt+install+awesome-developer;%3E+Initializing+mptamilan.exe+...+%5BDONE%5D;%F0%9F%94%A5+Crafting+LegendaryOptimized+Modpack;%E2%9A%A1+Mastering+ReactJS+one+hook+at+a+time;%F0%9F%8C%90+Building+the+web+from+India+to+the+world" alt="Typing SVG" />
@@ -200,34 +200,6 @@
 
 ---
 
-<!-- ═══════════════════════ SKILL BARS ═══════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 📈 Skill Levels
-
-</div>
-
-```text
-WordPress & PHP    ████████████████████  95%  🔥 Expert
-Linux & Bash       ███████████████████░  90%  ⚡ Advanced
-HTML / CSS         ███████████████████░  90%  ⚡ Advanced
-JavaScript         ████████████████░░░░  80%  🚀 Proficient
-Docker & Nginx     ███████████████░░░░░  75%  💪 Solid
-MongoDB & Firebase ██████████████░░░░░░  70%  📈 Growing
-ReactJS            ████████████░░░░░░░░  60%  🌱 Learning
-Python             ███████████░░░░░░░░░  55%  🔧 Intermediate
-```
-
----
-
-<!-- ═══════════════════════ GITHUB STATS ═════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ### 📊 GitHub Analytics
 
